@@ -1,0 +1,22 @@
+{
+  "name": "json-mocker",
+  "version": "1.0.0",
+  "description": "Mock data generator.",
+  "main": "mocker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cherryApp/json-mocker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cherryApp/json-mocker/issues"
+  },
+  "homepage": "https://github.com/cherryApp/json-mocker#readme",
+  "dependencies": {
+    "mocker-data-generator": "^2.6.6"
+  }
+}
